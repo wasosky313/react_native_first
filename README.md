@@ -1,7 +1,7 @@
 # react_native_first
 
 ## Dependencies
-- NodeJs
+- https://react-native.rocketseat.dev/expo-managed/linux
 
 ## clone project
 ```bash
